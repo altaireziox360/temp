@@ -5,7 +5,7 @@ Redis:
   redishost: "localhost"
   Redisport: "6379"
 server:
-  port: "443"
+  port: "9000"
   secret: "mySecretKey"
 s3:
   AWSRegion: "us-east-1"
